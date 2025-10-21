@@ -10,4 +10,4 @@ If you find any bugs, please make a Pull Request or an Issue.
 
 
 ## Live Demo
-[DEMO](http://codethejason.github.io/checkers/index.html)
+[DEMO](https://checkermain.netlify.app/)
